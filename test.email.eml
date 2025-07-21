@@ -1,0 +1,13 @@
+From: john.doe@example.com
+To: jane.doe@example.com
+Subject: Test Email Upload
+Date: Fri, 18 Jul 2025 20:35:00 +0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+This is a test email file for your phishing email analyzer project.
+
+Regards,  
+John

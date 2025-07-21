@@ -1,0 +1,13 @@
+From: "Paypal Security" <support@paypal.com>
+To: victim@example.com
+Subject: Urgent: Verify your account now!
+Date: Thu, 17 Jul 2025 10:15:00 +0000
+Content-Type: text/html
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your account has been limited due to suspicious activity. Please <a href="http://malicious-site.com/login">verify your information</a> to restore full access.</p>
+    <p>Thank you,<br>Paypal Security Team</p>
+  </body>
+</html>
