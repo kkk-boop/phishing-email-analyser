@@ -5,7 +5,7 @@ Easily upload emails, view metadata, and get automated risk scoring — all in a
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 **[phishing-email-analyser.vercel.app](https://phishing-email-analyser.vercel.app/)**
 
